@@ -33,7 +33,7 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:40px;
+	top:10px;
 	transition: top 300ms ease;
 }
 
