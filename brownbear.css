@@ -66,5 +66,9 @@ h2{
 	position:relative;
 }
 
+.top-nav a {
+	text-decoration: none
+}
+
 .top-nav ul li:hover{
 	left: 4px;
